@@ -1,0 +1,5 @@
+a new file being added
+edited online/pushed by another developer
+edited in local to see the conflict
+edited again to see the conflict
+

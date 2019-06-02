@@ -1,2 +1,3 @@
 a new file being added
 edited online/pushed by another developer
+edited again to see the conflict
